@@ -1,6 +1,3 @@
-https://www.c-sharpcorner.com/article/crud-operation-in-mvc-using-elastic-search/
-
-
 An index is like a ‘database’ in a relational database. It has a mapping which defines multiple types.
 
 SQL Server => Databases => Tables => Columns/Rows
